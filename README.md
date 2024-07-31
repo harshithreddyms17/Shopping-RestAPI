@@ -7,8 +7,6 @@ A comprehensive Shopping REST API built with [insert your technology stack here]
 - [Overview](#overview)
 - [Features](#features)
 - [Technologies](#technologies)
-- [Installation](#installation)
-- [Usage](#usage)
 - [API Endpoints](#api-endpoints)
 - [Contributing](#contributing)
 - [License](#license)
